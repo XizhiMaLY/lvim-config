@@ -1,5 +1,6 @@
 # Folder lvim
 The folder lvim is something cloned from other repos by the install commands of lvim and since can't be upload to my repo. I can delete the git file and upload butumm, I need the git incase I need to get the update of the software to solve some bugs, So I can upload the file to a webdrive. 
+<lvim.png" width="100%">
 # Requirements
 Install lunarvim
 In lunarvim's github, there is a project called starter.lvim, I use the configuration there to make python debugger run
