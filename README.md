@@ -1,6 +1,7 @@
 # Folder lvim
 The folder lvim is something cloned from other repos by the install commands of lvim and since can't be upload to my repo. I can delete the git file and upload butumm, I need the git incase I need to get the update of the software to solve some bugs, So I can upload the file to a webdrive. 
-(But then I didn't do it, for the lvim is still kind of premeture for me and are more of a toy rather than a tool. I'll stick with vscode for some time.)
+
+(But then I didn't do it, for the lvim is still kind of premeture to me and it is more of a toy rather than a tool. I'll stick with vscode for some time.)
 <img src="lvim.png" width="100%">
 # Requirements
 Install lunarvim
