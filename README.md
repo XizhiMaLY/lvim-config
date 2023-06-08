@@ -14,6 +14,9 @@ It's install by official website command not brew, it's installed on ~/.local/sh
 2. persistent undo
 3. indent/ unindent < and >
 4. comment/ uncomment gc
+5. jump into function gd
+6. write at the next line o
+7. write at the above line O
 ## cheat sheet
 1. cw: delete a word and enter insert mode
 2. e: to the end of the word, b: to the back of the word 
