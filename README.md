@@ -13,7 +13,7 @@ It's install by official website command not brew, it's installed on ~/.local/sh
 1. autosave
 2. persistent undo
 3. indent/ unindent < and >
-4. comment/ uncomment gc
+4. comment/ uncomment gcc
 5. jump into function gd
 6. write at the next line o
 7. write at the above line O
